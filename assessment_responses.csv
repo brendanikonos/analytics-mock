@@ -1,0 +1,24 @@
+﻿Key,What is your name?,Which is your role?,Team,How many people on your team,What are the top Jobs to Done or Focuses of your Team,What roles/titles exist in the team?,"What are some current pain points with data, analytics & AI that you or the team are experiencing? (multi-select)",Which of the following high-level capabilities would be valuable for your team?,What training exists today and is on the horizon for teams at your organization,How interested are you in training for MLOps?,How interested are in training for DataOps?,How interested are in training for Product Management?,How interested are in training for Project Management?,How interested are in training for Self Service Analytics?,How interested are in training for Data Story Telling?,How interested are in training for DataOps?
+1,,,Business Intelligence,10,,,,,,3,2,5,5,4,1,4
+2,,,Data Science,11,,,,,,4,2,4,1,1,2,2
+3,,,Data Warehouse,12,,,,,,5,5,5,4,3,5,1
+4,,,Data Stewards,13,,,,,,5,1,2,3,5,2,1
+5,,,Business Intelligence,14,,,,,,5,3,5,4,3,5,1
+6,,,Data Science,15,,,,,,3,3,2,5,4,2,2
+7,,,Data Warehouse,16,,,,,,2,4,3,3,3,5,4
+8,,,Data Stewards,17,,,,,,1,1,3,5,5,4,1
+9,,,Business Intelligence,18,,,,,,2,4,2,2,3,1,1
+10,,,Data Science,19,,,,,,1,2,3,2,2,4,2
+11,,,Data Warehouse,20,,,,,,5,1,1,1,1,3,5
+12,,,Data Stewards,10,,,,,,5,1,1,1,4,5,5
+13,,,Business Intelligence,11,,,,,,5,5,5,2,5,4,1
+14,,,Data Science,12,,,,,,1,3,1,5,1,1,5
+15,,,Data Warehouse,13,,,,,,1,2,5,4,4,3,4
+16,,,Data Stewards,14,,,,,,5,3,3,4,5,3,3
+17,,,Business Intelligence,15,,,,,,2,2,1,2,2,3,2
+18,,,Data Science,16,,,,,,5,2,4,1,4,5,1
+19,,,Data Warehouse,17,,,,,,5,5,1,2,3,4,4
+20,,,Data Stewards,18,,,,,,4,3,2,2,2,1,1
+21,,,Business Intelligence,19,,,,,,5,5,3,4,2,5,5
+22,,,Data Science,20,,,,,,2,5,3,1,3,4,5
+23,,,Data Warehouse,15,,,,,,3,5,4,3,2,2,1
